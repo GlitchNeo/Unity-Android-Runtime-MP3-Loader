@@ -17,3 +17,6 @@ One can use this script for anything... whether be create mp3 player or a rythm 
 
 The Only Scripts that are Important are MP3FileScanner.cs and AudioManager.cs
 Both Scripts have some Basic Instruction to guide you
+
+You can Buy it very cheap via
+https://payhip.com/b/ge2dD
